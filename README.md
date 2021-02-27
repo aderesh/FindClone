@@ -1,5 +1,5 @@
 # FindClone
-Simple utility to find a file clone.
+Simple utility to find a file clone. Requires .net framework v4.7.1
 
 usage:
 FindClone.exe c:\\Directory c:\\File.txt
